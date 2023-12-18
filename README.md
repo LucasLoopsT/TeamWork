@@ -36,7 +36,7 @@ Here you can see and get a link to folders with projects i have contributed to a
         <p>Created using: React.js, Node.js, Express and MySql</p>
       </td>
       <td><a href="https://github.com/Laysabernardes/ReservaDeChavesIFSP" target="blank">LINK</a></td>
-      <td><img scr="" width="300px"></td>
+      <td><img scr="[https://github.com/LucasLoopsT/TeamWork/blob/main/Preview/previewTW.png](https://github.com/LucasLoopsT/TeamWork/blob/main/Preview/previewTW-Reserva.png)"></td>
     </tr>
     <tr><td colspan="5"></td></tr>
     <tr align="center">
@@ -47,7 +47,7 @@ Here you can see and get a link to folders with projects i have contributed to a
         <p>Created using: React.js, Node.js, Express and Mongo.db.</p>
       </td>
       <td><a href="https://github.com/LucasLoopsT/MERN-SignUp" target="blank">LINK</a></td>
-      <td><img scr="" width="300px"></td>
+      <td><img scr="https://github.com/LucasLoopsT/TeamWork/blob/main/Preview/previewTW-MERN.png" width="300px"></td>
     </tr>
     <tr><td colspan="5"></td></tr>
   </tbody>
