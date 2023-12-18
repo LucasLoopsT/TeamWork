@@ -1,6 +1,6 @@
 # TeamWork!
 
-Here you can get a link to folders with projects i have contributed to:
+Here you can see and get a link to folders with projects i have contributed to as a team:
 
 <table>
   <thead>
@@ -8,6 +8,10 @@ Here you can get a link to folders with projects i have contributed to:
       <th align="center">
         <img width="200" height="1"> 
         <p>TITLE</p>
+      </th>
+      <th align="center">
+        <img width="150" height="1"> 
+        <p>CREATED ON</p>
       </th>
       <th align="center">
         <img width="250" height="1"> 
@@ -25,17 +29,27 @@ Here you can get a link to folders with projects i have contributed to:
   </thead>
   <tbody>
     <tr align="center">
+      <td>ReservaDeChavesIFSP</td>
+      <td>Nov 5, 2023</td>
+      <td>
+        <p>A Website which IFSP students and teachers can logIn and send requests to an Administrator to reserve a campus classroom.</p>
+        <p>Created using: React.js, Node.js, Express and MySql</p>
+      </td>
+      <td><a href="https://github.com/Laysabernardes/ReservaDeChavesIFSP" target="blank">LINK</a></td>
+      <td><img scr="" width="300px"></td>
+    </tr>
+    <tr><td colspan="5"></td></tr>
+    <tr align="center">
       <td>MERN-SignUp</td>
-      <td>A simple SignUp and SignIn page. Created using React.js, Node.js, Express and Mongo.db</td>
+      <td>Oct 29, 2023</td>
+      <td>
+        <p>A simple SignUp and SignIn page.</p>
+        <p>Created using: React.js, Node.js, Express and Mongo.db.</p>
+      </td>
       <td><a href="https://github.com/LucasLoopsT/MERN-SignUp" target="blank">LINK</a></td>
       <td><img scr="" width="300px"></td>
     </tr>
-    <tr align="center">
-      <td>Projeto X</td>
-      <td>WebSite</td>
-      <td><a href="" target="blank">LINK</a></td>
-      <td><img scr="" width="300px"></td>
-    </tr>
+    <tr><td colspan="5"></td></tr>
   </tbody>
 </table>
 
