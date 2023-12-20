@@ -6,25 +6,6 @@
 Here you can see and get a link to folders with projects i have contributed to as a team:
 </p>
 
-<table align="center">
-  <thead align="center">
-    <tr>
-      <td><h2>PROJECT</h2></td>
-      <td><h2>PREVIEW</h2></td>
-    </tr>
-  </thead>
-  <tbody align="center">
-    <tr>
-      <td><a href="https://github.com/LucasLoopsT/TeamWork/tree/main?tab=readme-ov-file#">Reserva de Chaves IFSP</a></td>
-      <td><img src="Preview/previewTW-Reserva.png" width="200px"></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/LucasLoopsT/TeamWork/tree/main?tab=readme-ov-file#-1">MERN SignUp</a></td>
-      <td><img src="Preview/previewTW-MERN.png" width="200px"></td>
-    </tr>
-  </tbody>
-</table>
-
 ---
 <h2 align="center">
 <img src="Preview/previewTW-Reserva.png" width="800px">
