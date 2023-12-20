@@ -1,6 +1,10 @@
+<div align="center">
+  
 # TeamWork!
-
+</div>
+<p align="center">
 Here you can see and get a link to folders with projects i have contributed to as a team:
+</p>
 
 ---
 <h2 align="center">
